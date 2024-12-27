@@ -27,12 +27,13 @@
   <a href="https://recoiljs.org/">![js](https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white)</a>
   <a href="https://developer.android.com/studio">![js](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=white)</a>
   <a href='https://styled-components.com/'>![js](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)</a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
+</a>
   <br>
 
 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
-</a>
+
   <a href="https://spring.io/projects/spring-boot">![js](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)</a>
   <a href="https://aws.amazon.com/">![js](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)</a>
   <a href="https://gradle.org/">![js](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)</a>
