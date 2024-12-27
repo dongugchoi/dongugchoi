@@ -7,7 +7,7 @@
  <a href="https://www.postman.com/">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" alt="Postman">
   </a>
-  <a href="https://www.docs.oracle.com/javase/8/docs/api/">
+  <a href="https:/www.docs.oracle.com/en/java/">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" alt="Java">
   </a>
   <br>
