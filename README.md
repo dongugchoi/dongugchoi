@@ -1,6 +1,7 @@
 <div>
-<img src="https://capsule-render.vercel.app/api?type=Cylinder&color=FFDDC1&height=200&section=header&text=Dongug's%20Git%20Hub&fontSize=60" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=FFDDC1&height=200&section=header&text=Dongug's%20Git%20Hub&fontSize=60" />
 </div>
+
 
 <div align="center"><h2>📚 STACKS</h2>
 <div align="center"> 
