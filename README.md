@@ -1,44 +1,43 @@
 <div>
-  <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=FFDDC1&height=200&section=header&text=Always%20learning, always%20debugging - Dongug&fontColor=1E90FF&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
 </div>
 
 <div align="center"><h2>📚 STACKS</h2>
 <div align="center"> 
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
+  <a href="https://www.postman.com/">![js](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)</a>
+  <a href="https://www.java.com/">![js](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)</a>
   <br>
-  
 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">![js](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)</a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">![js](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)</a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)</a>
   <br>
-  
-  <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+
+  <a href="https://www.oracle.com/database/">![js](https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white)</a>
+  <a href="https://www.mysql.com/">![js](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)</a>
+  <a href="https://firebase.google.com/">![js](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)</a>
   <br>
-  
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-  <a href='https://recoiljs.org/ko/'>![js](https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white)</a>
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
+
+  <a href="https://react.dev/">![js](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)</a>
+  <a href="https://reactnative.dev/">![js](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=React&logoColor=black)</a>
+  <a href="https://recoiljs.org/">![js](https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white)</a>
+  <a href="https://developer.android.com/studio">![js](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=white)</a>
   <br>
-  
-  <a href='https://axios-http.com/kr/docs/intro'>![js](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white)</a>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+
+  <a href="https://axios-http.com/">![js](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white)</a>
+  <a href="https://code.visualstudio.com/">![js](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)</a>
+  <a href="https://nodejs.org/">![js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)</a>
   <br>
-  
-  
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"> 
-  <img src="https://img.shields.io/badge/gradle-02303A?style=flat-square&logo=gradle&logoColor=white">
+
+  <a href="https://spring.io/projects/spring-boot">![js](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)</a>
+  <a href="https://aws.amazon.com/">![js](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)</a>
+  <a href="https://gradle.org/">![js](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)</a>
   <br>
-  
-  <img src="https://img.shields.io/badge/github-181717?style=flat-square=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
+
+  <a href="https://github.com/">![js](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)</a>
+  <a href="https://git-scm.com/">![js](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)</a>
   <br>
+
 
    <h2>Portfilo</h2>
    <div align="center">
