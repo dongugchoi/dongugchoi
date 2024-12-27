@@ -1,5 +1,5 @@
 <div>
-  <img src="https://capsule-render.vercel.app/api?type=Waving&color=FFDDC1&height=200&section=header&text=Dongug's%20Git%20Hub&fontSize=60" />
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=FFDDC1&height=200&section=header&text=Welcome%20To-nldongdong%20Git%20Hub&fontSize=60" />
 </div>
 
 
@@ -44,6 +44,10 @@
   <a href="https://github.com/">![js](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)</a>
   <a href="https://git-scm.com/">![js](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)</a>
   <br>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongugchoi)](https://github.com/dongugchoi)
+# GitHub 평판을 나타내는 위젯
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongugchoi)](https://github.com/dongugchoi)
 
    <h2>Portfilo</h2>
    <div align="center">
