@@ -1,5 +1,5 @@
 <div>
-  <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=D8BFD8&height=200&section=header&text=Always learning, always debugging - Dongug&fontColor=1E90FF&fontSize=60" />
+  <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=FFDDC1&height=200&section=header&text=Always%20learning, always%20debugging - Dongug&fontColor=1E90FF&fontSize=60" />
 </div>
 
 <div align="center"><h2>📚 STACKS</h2>
@@ -21,11 +21,11 @@
   
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Recoil-007af4?style=flat-square&logo=Recoil&logoColor=white"/>
+  <a href='https://recoiljs.org/ko/'>![js](https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white)</a>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
   <br>
   
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logoColor=white"/>
+  <a href='https://axios-http.com/kr/docs/intro'>![js](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white)</a>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <br>
