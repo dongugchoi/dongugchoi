@@ -5,7 +5,7 @@
 <div align="center"><h2>📚 STACKS</h2>
 <div align="center"> 
   <a href="https://www.postman.com/">![js](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)</a>
-  <a href="https://www.java.com/">![js](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)</a>
+  <a href="[https://www.java.com/](https://docs.oracle.com/javase/8/docs/api/)">![js](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)</a>
   <br>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">![js](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)</a>
@@ -25,7 +25,8 @@
   <br>
 
   <a href="https://axios-http.com/">![js](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white)</a>
-  <a href="https://code.visualstudio.com/">![js](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)</a>
+<a href='https://grafana.com/'>![js](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)</a>
+![js](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
   <a href="https://nodejs.org/">![js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)</a>
   <br>
 
