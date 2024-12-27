@@ -26,14 +26,11 @@
   <a href="https://reactnative.dev/">![js](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=React&logoColor=black)</a>
   <a href="https://recoiljs.org/">![js](https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white)</a>
   <a href="https://developer.android.com/studio">![js](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=white)</a>
+  <a href='https://styled-components.com/'>![js](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)</a>
   <br>
 
-  <a href="https://axios-http.com/">![js](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white)</a>
-<a href='https://grafana.com/'>![js](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)</a>
+
 ![js](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-  <a href="https://nodejs.org/">![js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)</a>
-  <br>
-
   <a href="https://spring.io/projects/spring-boot">![js](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)</a>
   <a href="https://aws.amazon.com/">![js](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)</a>
   <a href="https://gradle.org/">![js](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)</a>
