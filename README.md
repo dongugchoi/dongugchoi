@@ -1,5 +1,5 @@
 <div>
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=FFDDC1&height=200&section=header&text=Dongug's%20Git%20Hub&fontSize=60" />
 </div>
 
 <div align="center"><h2>📚 STACKS</h2>
