@@ -30,7 +30,8 @@
   <br>
 
 
-![js](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+  <a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"></a>
   <a href="https://spring.io/projects/spring-boot">![js](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)</a>
   <a href="https://aws.amazon.com/">![js](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)</a>
   <a href="https://gradle.org/">![js](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)</a>
@@ -39,6 +40,8 @@
   <a href="https://github.com/">![js](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)</a>
   <a href="https://git-scm.com/">![js](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)</a>
   <br>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redcontroller&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
    <h2>Portfilo</h2>
