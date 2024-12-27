@@ -5,7 +5,7 @@
 <div align="center"><h2>📚 STACKS</h2>
 <div align="center"> 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
   <br>
   
 
@@ -22,6 +22,8 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/Recoil-007af4?style=flat-square&logo=Recoil&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <br>
   
