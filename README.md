@@ -26,6 +26,7 @@
   <a href="https://react.dev/">![js](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)</a>
   <a href="https://reactnative.dev/">![js](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=React&logoColor=black)</a>
   <a href="https://recoiljs.org/">![js](https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white)</a>
+  <br>
   <a href="https://developer.android.com/studio">![js](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=white)</a>
   <a href='https://styled-components.com/'>![js](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)</a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
@@ -44,12 +45,9 @@
   <a href="https://git-scm.com/">![js](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)</a>
   <br>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongugchoi&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
    <h2>Portfilo</h2>
    <div align="center">
-      <a href="https://yunseungbum.github.io/portfolio/">
+      <a href="">
          <img src="https://img.shields.io/badge/ClickMe-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
   </div>
