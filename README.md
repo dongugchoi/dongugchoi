@@ -4,8 +4,12 @@
 
 <div align="center"><h2>📚 STACKS</h2>
 <div align="center"> 
-  <a href="https://www.postman.com/">![js](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)</a>
-  <a href="[https://www.java.com/](https://docs.oracle.com/javase/8/docs/api/)">![js](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)</a>
+ <a href="https://www.postman.com/">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" alt="Postman">
+  </a>
+  <a href="https://www.docs.oracle.com/javase/8/docs/api/">
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" alt="Java">
+  </a>
   <br>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">![js](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)</a>
