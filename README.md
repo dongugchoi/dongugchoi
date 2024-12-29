@@ -30,8 +30,9 @@
   <a href="https://developer.android.com/studio">![js](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=white)</a>
   <a href='https://styled-components.com/'>![js](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)</a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="Visual Studio Code" style="height: 30px;">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
 </a>
+
 
 
 
