@@ -30,8 +30,9 @@
   <a href="https://developer.android.com/studio">![js](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=white)</a>
   <a href='https://styled-components.com/'>![js](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)</a>
 <a href="https://code.visualstudio.com/">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAiIGhlaWdodD0iMTIwIiB2aWV3Qm94PSIwIDAgMjU2IDI1NiI+PHBhdGggZD0iTTIzNS45MjgsMTA4LjA1MiwxMTYuMDUsMTEyLDIzNS45MjgsMTU1Ljg0OCwxNDguMjc2LDI1NS42NCwxMTYuMDUsMTg3Ljk3Niw3OC40LDIyNC42OCwxMi41NjQsMTM0LjA3LDc4LjQsMzEuMDMyLDExNi4wNSw2OC44MjQsMjMuNTk2LDAsMTMxLjg4OCwyMy41OTYsMjU2LDY4LjgyNFoiIGZpbGw9IiNmZmYiLz48L3N2Zz4=" alt="Visual Studio Code">
 </a>
+
 
   <br>
   
