@@ -40,7 +40,7 @@
   <br>
   
   <a href="https://spring.io/projects/spring-boot">![js](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)</a>
-  <a href="https://aws.amazon.com/">![js](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)</a>
+  <a href="https://aws.amazon.com/">![js](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon%20Web%20Services&logoColor=white)</a>
   <a href="https://gradle.org/">![js](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)</a>
   <br>
 
