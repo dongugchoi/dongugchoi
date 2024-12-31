@@ -42,9 +42,7 @@
   <a href="https://github.com/">![js](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)</a>
   <a href="https://git-scm.com/">![js](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)</a>
   <br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongugchoi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+  
    <h2>Portfilo</h2>
    <div align="center">
       <a href="">
