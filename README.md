@@ -1,10 +1,14 @@
-<div>
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=FFDDC1&height=200&section=header&text=Welcome%20To-nl-dongdong%20Git%20Hub&fontSize=60" />
+  <div>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongugchoi%2Fhit-counter&count_bg=%23989893&title_bg=%23555555&icon=&icon_color=%23980000&title=guest&edge_flat=false"/></a>
+  </div>
 </div>
 
 
 <div align="center"><h2>📚 STACKS</h2>
 <div align="center"> 
+  
  <a href="https://www.postman.com/">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" alt="Postman">
   </a>
