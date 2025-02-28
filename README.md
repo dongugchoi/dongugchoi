@@ -30,6 +30,9 @@
   <a href="https://react.dev/">![js](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)</a>
   <a href="https://reactnative.dev/">![js](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=React&logoColor=black)</a>
   <a href="https://recoiljs.org/">![js](https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white)</a>
+  <a href="https://vuejs.org/">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" alt="Vue.js"/>
+</a>
   <br>
   <a href="https://developer.android.com/studio">![js](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=white)</a>
   <a href='https://styled-components.com/'>![js](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)</a>
