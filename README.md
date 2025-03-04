@@ -23,8 +23,6 @@
   <br>
 
   <a href="https://www.oracle.com/database/">![js](https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white)</a>
-  <a href="https://www.mysql.com/">![js](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)</a>
-  <a href="https://firebase.google.com/">![js](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)</a>
   <br>
 
   <a href="https://react.dev/">![js](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)</a>
@@ -32,11 +30,10 @@
   <a href="https://recoiljs.org/">![js](https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white)</a>
   <a href="https://vuejs.org/">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" alt="Vue.js"/>
-</a>
+  </a>
   <br>
-  <a href="https://developer.android.com/studio">![js](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=white)</a>
   <a href='https://styled-components.com/'>![js](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)</a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
 </a>
 <br>
