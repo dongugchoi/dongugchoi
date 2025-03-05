@@ -21,7 +21,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">![js](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)</a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)</a>
   <br>
-
+  <a href="https://vuetifyjs.com/">
+  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white" alt="Vuetify">
+  </a>
   <a href="https://www.oracle.com/database/">![js](https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white)</a>
   <br>
 
