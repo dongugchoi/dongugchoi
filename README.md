@@ -46,12 +46,6 @@
 
   <a href="https://github.com/">![js](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)</a>
   <a href="https://git-scm.com/">![js](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)</a>
-  <br>
-   <h2>Portfilo</h2>
-   <div align="center">
-      <a href="https://dongugchoi.github.io/portfolio/">
-         <img src="https://img.shields.io/badge/ClickMe-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
-  </a>
   </div>
 </div>
 
